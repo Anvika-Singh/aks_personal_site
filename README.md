@@ -1,2 +1,2 @@
-# aks_personal_site
+# AnvikaPersonalSite
 Anvika's Personal Site
